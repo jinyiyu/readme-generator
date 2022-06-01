@@ -1,9 +1,9 @@
-# hi ![alt text](https://img.shields.io/badge/BSD%202-Clause%20'Simplified'%20License-License-green)
+# f ![alt text](https://img.shields.io/badge/Apache%202-License-green)
 
 ## Table of Contents
 
 - [Description](#description)
-- [Installation](#installation)
+
 - [Usage](#usage)
 
 
@@ -11,23 +11,16 @@
 
 ## Description
 
-ser
+s
 
-## Installation
 
-Please follow the instructions below:
-
-```
-djf
-
-``` 
 
 ## Usage
 
 Please follow the instructions below:
 
 ```
-vsjei
+g
 
 ```
 
@@ -36,6 +29,6 @@ vsjei
 
 ## Questions
 
-Please contact me if you have any inquiries on my email : 38475
+Please contact me if you have any inquiries on my email : f
 
-Visit my Github profile [here](https://github.com/sie)
+Visit my Github profile [here](https://github.com/df)
