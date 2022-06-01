@@ -1,4 +1,4 @@
-# Project Title ![alt text]()
+# Project Title ![alt text](https://img.shields.io/badge/MIT-License-green)
 
 ## Table of Contents
 
