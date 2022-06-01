@@ -35,7 +35,7 @@ npm run start
 
 ## Demo Video
 
-Please click [Here](need a google drive link later) to view the demo video.
+Please click [Here](file:///Users/jinyiyu/Downloads/Untitled_%20Jun%201,%202022%2011_47%20PM.webm) to view the demo video.
 
 ## How To Contact Me
 
