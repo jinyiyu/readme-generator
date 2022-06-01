@@ -39,6 +39,6 @@ Please click [Here](need a google drive link later) to view the demo video.
 
 ## Contact Me
 
-Please contact me if you have any inquiries on my email :
+Please contact me if you have any inquiries on my [email](yujinyiicxk@gmail.com)
 
 Visit my Github profile [here](https://github.com/jinyiyu)
