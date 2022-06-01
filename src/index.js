@@ -64,8 +64,7 @@ const questions = [
   {
     name: "confirmTests",
     type: "confirm",
-    message:
-      "Would you like to give a installation guildances for your project.",
+    message: "Would you like to give a test guildances for your project.",
   },
   {
     name: "tests",
@@ -135,7 +134,7 @@ Please follow the instructions below:
 
 \`\`\`\
 
-${answers.test}
+${answers.tests}
 
 \`\`\`\ `
     : ""
