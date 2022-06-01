@@ -4,7 +4,7 @@
   "description": "Project that generate readme file using Inquirer",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node src/index.js"
   },
   "repository": {
     "type": "git",

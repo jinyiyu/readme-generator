@@ -12,18 +12,14 @@
 
 ## Description
 
-This project is a README generator using Node.js and the inquirer package. The user will be asking series of prompt questions in the terminal about the information of their project.
-
-After the user's submited responses, a fine markdown file will be generated, the layout will be a Title(with a license badge if you choose one), a table of content listing all your main sections that would cover the answers you submitted before.
+random text - waiting for answers
 
 ## Installation
 
 Please follow the instructions below:
 
 ```
-git clone https://github.com/jinyiyu/readme-generator.git
-cd readme-generator
-npm install
+waiting for answers
 
 ```
 
@@ -32,35 +28,43 @@ npm install
 Please follow the instructions below:
 
 ```
-npm run start
+waiting for answers
 ```
 
 ## License
 
-MIT License
-Boost Software License 1.0
-Apache License 2.0
+waiting for answers
+choices array -
+[
+"Apache License 2.0",
+"GNU General Public License v3.0",
+"MIT License",
+"BSD 2-Clause 'Simplified' License",
+"BSD 3-Clause 'New' or 'Revised' License",
+"Boost Software License 1.0",
+"Creative Commons Zero v1.0 Universal",
+"Eclipse Public License 2.0",
+"GNU Affero General Public License v3.0",
+"GNU General Public License v2.0",
+"GNU Lesser General Public License v2.1",
+"Mozilla Public License 2.0",
+"The Unlicense",
+],
 
 ## Contributing
 
-dummy text
+waiting for answers
 
 ## Tests
 
 Please follow the instructions below:
 
 ```
-
+waiting for answers
 ```
 
 ## Questions
 
 Please contact me if you have any inquiries on my email :
 
-Visit my Github profile [here](https://github.com/jinyiyu)
-
-markdown cheat sheet 有 link
-问有没有 license 有的话放一个 badge 在 title
-img.shields.io :create a badge
-endpoint require url and style or labal and massage
-lable mit license
+Visit my Github profile [here](https://github.com/usersinput)
