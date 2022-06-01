@@ -37,8 +37,16 @@ npm run start
 
 Please click [Here](need a google drive link later) to view the demo video.
 
-## Contact Me
+## How To Contact Me
 
-Please contact me if you have any inquiries on my [email](yujinyiicxk@gmail.com)
+Please contact me if you have any inquiries
 
-Visit my Github profile [here](https://github.com/jinyiyu)
+- Email: yujinyiicxk@gmail.com
+- Github: https://github.com/jinyiyu
+- LinkedIn: https://www.linkedin.com/in/jinyiyu/
+
+<br>
+
+## Authored by
+
+### __Jinyi Yu__
