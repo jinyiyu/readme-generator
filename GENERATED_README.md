@@ -65,6 +65,6 @@ waiting for answers
 
 ## Questions
 
-Please contact me if you have any inquiries on my email :
+Please contact me if you have any inquiries on my email : userinput
 
 Visit my Github profile [here](https://github.com/usersinput)
