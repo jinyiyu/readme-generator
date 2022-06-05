@@ -38,15 +38,16 @@ npm run start
 
 Please click [Here](https://drive.google.com/file/d/1sZn9qhdQ-FdVqpCery-ek5EpeUaliM05/view) or checkout [Here](./src/Untitled_%20Jun%201%2C%202022%2011_47%20PM.mp4) to view the demo video.
 
+<br>
+
 ## How To Contact Me
 
 Please contact me if you have any inquiries
 
-- Email: yujinyiicxk@gmail.com
-- Github: https://github.com/jinyiyu
-- LinkedIn: https://www.linkedin.com/in/jinyiyu/
-
-<br>
+[<img height="26" width="26" src="https://raw.githubusercontent.com/jinyiyu/jinyiyu/main/icon/github.svg" />](https://github.com/jinyiyu)
+[<img height="26" width="26" src="https://raw.githubusercontent.com/jinyiyu/jinyiyu/main/icon/linkedIn.svg" />](https://www.linkedin.com/in/jinyiyu/)
+[<img height="26" width="26" src="https://raw.githubusercontent.com/jinyiyu/jinyiyu/main/icon/instagram.svg" />](https://www.instagram.com/jinyiyu517/)
+[<img height="26" width="26" src="https://raw.githubusercontent.com/jinyiyu/jinyiyu/main/icon/gmail.svg" />](mailto:yujinyiicxk@gmail.com)
 
 ## Authored by
 
