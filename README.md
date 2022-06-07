@@ -36,7 +36,7 @@ npm run start
 
 ## Demo Video
 
-Please click [Here](https://drive.google.com/file/d/1sZn9qhdQ-FdVqpCery-ek5EpeUaliM05/view) or checkout [Here](./src/Untitled_%20Jun%201%2C%202022%2011_47%20PM.mp4) to view the demo video.
+Please click [Here](https://drive.google.com/file/d/1sZn9qhdQ-FdVqpCery-ek5EpeUaliM05/view) to view the demo video.
 
 <br />
 
