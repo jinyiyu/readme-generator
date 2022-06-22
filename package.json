@@ -1,0 +1,25 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "Project that generate readme file using Inquirer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinyiyu/readme-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jinyiyu/readme-generator/issues"
+  },
+  "homepage": "https://github.com/jinyiyu/readme-generator#readme",
+  "dependencies": {
+    "figlet": "^1.5.2",
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.4"
+  }
+}
